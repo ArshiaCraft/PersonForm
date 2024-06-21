@@ -96,10 +96,6 @@ To run this project, you need to have the following installed:
 ```
 myproject/
 ├── api/
-│   ├── management/
-│   │   ├── commands/
-│   │   │   ├── __init__.py
-│   │   │   ├── delete_persons.py
 │   ├── migrations/
 │   ├── __init__.py
 │   ├── admin.py
