@@ -1,0 +1,15 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+/media
+
+# Vue
+/node_modules
+/dist
+
+# OS-specific
+.DS_Store
+Thumbs.db
